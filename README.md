@@ -10,4 +10,9 @@ Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlam�
 
 ![tubeSlide](https://github.com/user-attachments/assets/411e1ce9-6d42-4aa2-8c21-7b4dbb3e0303)
 
+## Bedroom
+
+![bedroom](https://github.com/user-attachments/assets/8427247a-e541-450e-9a14-227e066fbe4c)
+
+
 
