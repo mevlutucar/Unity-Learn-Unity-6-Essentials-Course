@@ -24,7 +24,8 @@ Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlam�
 
 ## Audio Sources at Kitchen
 
-![kitchenAudio](https://github.com/user-attachments/assets/f8cbb0a0-7e2f-4091-b5f8-a5802dad4e27)
+![kitchenAudio2](https://github.com/user-attachments/assets/006806e8-cdd8-4586-9a68-6f0af4fd1b64)
+
 
 
 
