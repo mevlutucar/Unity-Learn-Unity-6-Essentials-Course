@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Essentials Project.sln"
+    "dotnet.defaultSolution": "Unity-Learn-Unity-6-Essentials-Course.sln"
 }
