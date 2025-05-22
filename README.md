@@ -2,6 +2,10 @@
 
 Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlamış ("https://learn.unity.com/pathway/unity-essentials?version=6") ders ilerlemelerini içermektedir.
 
+## Main Scene
+
+![mainSceneMevlutUcar](https://github.com/user-attachments/assets/3655af38-46b4-4a9b-89d3-0d4ef75b5149)
+
 ## Turtle Puzzle 
 
 ![turtlePuzzle](https://github.com/user-attachments/assets/d2d81cbe-b593-4103-b3d5-fe382b8b8c96)
@@ -33,7 +37,6 @@ Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlam�
 ## 2D Vacuum Player and Collectibles
 
 ![2dCollectibles](https://github.com/user-attachments/assets/7b51b47b-dd55-40d2-8b7d-a3c9a92acde1)
-
 
 
 
