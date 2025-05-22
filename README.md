@@ -30,6 +30,11 @@ Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlam�
 
 ![vacuumPlayer](https://github.com/user-attachments/assets/a9414815-e55c-4349-9093-4ac8ec7170cd)
 
+## 2D Vacuum Player and Collectibles
+
+![2dCollectibles](https://github.com/user-attachments/assets/7b51b47b-dd55-40d2-8b7d-a3c9a92acde1)
+
+
 
 
 
