@@ -26,6 +26,11 @@ Bu repo, Unity tarafından, Unity 6 sürümüne yönelik; path olarak yayınlam�
 
 ![kitchenAudio2](https://github.com/user-attachments/assets/006806e8-cdd8-4586-9a68-6f0af4fd1b64)
 
+## Vacuum Player and Collectibles
+
+![vacuumPlayer](https://github.com/user-attachments/assets/a9414815-e55c-4349-9093-4ac8ec7170cd)
+
+
 
 
 
